@@ -1,5 +1,4 @@
 $(function () {
-  //test
   // MENU初始化
   // nojs 先移除
   // 手機桌機版本切換及手機版menu設定
